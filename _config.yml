@@ -1,16 +1,12 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+  riku:
+    image_url: /images/actors/riku.jpg
+    name: Riku
+    url: https://rikuchan.jp
+author: riku
+description: Rikuchan.fmは竹中陸が日常を語るポッドキャスト番組です。
+description_long: Rikuchan.fmは竹中陸が日常を語るポッドキャスト番組です。プログラミング、音楽（ピアノ）、将棋、好きなTVCM、コーヒー、いいロケーションなど
+email: riijon@gmail.com
 exclude:
   - docker
   - docker-compose.yml
@@ -20,7 +16,7 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: neko
 itunes_podcast_url:
 keywords: comma,separated,keywords
 language: ja
@@ -29,5 +25,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: Rikuchan.fm
+url: https://rikuchan-jp.github.io
