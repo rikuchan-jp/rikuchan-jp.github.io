@@ -18,6 +18,7 @@ exclude:
 google_analytics:
 hashtag: neko
 itunes_podcast_url:
+spotify_podcast_url: https://open.spotify.com/show/7M5Tsl9huKXljMOjTgATce
 keywords: comma,separated,keywords
 language: ja
 markdown: kramdown
