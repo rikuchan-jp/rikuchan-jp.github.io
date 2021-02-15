@@ -2,7 +2,11 @@ actors:
   riku:
     image_url: /images/actors/riku.jpg
     name: Riku
-    url: https://rikuchan.jp
+    url: https://twitter.com/riijon
+  ryuya:
+    image_url: /images/actors/ryuya.jpg
+    name: Ryuya Hasegawa
+    url: https://twitter.com/hase_csv
 author: riku
 description: Rikuchan.fmは竹中陸が日常を語るポッドキャスト番組です。
 description_long: Rikuchan.fmは竹中陸が日常を語るポッドキャスト番組です。プログラミング、音楽（ピアノ）、将棋、好きなTVCM、コーヒー、いいロケーションなど
